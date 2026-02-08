@@ -1,0 +1,5 @@
+{
+  "api_base": "https://ark.cn-beijing.volces.com/api/v3",
+  "api_key": "在这里粘贴你自己的API Key",
+  "model": "doubao-seed-1-8-251228"
+}

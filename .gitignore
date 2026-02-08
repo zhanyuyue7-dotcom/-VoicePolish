@@ -1,0 +1,22 @@
+# API 配置（含密钥）
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# 备份与日志
+voice_polish_backup.py
+日志.txt
+
+# 临时文件
+*.tmp
+vp_*.txt
+
+# IDE
+.vscode/
+.idea/
