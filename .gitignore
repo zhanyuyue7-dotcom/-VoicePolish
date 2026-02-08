@@ -13,6 +13,10 @@ build/
 voice_polish_backup.py
 日志.txt
 
+# 本地文档（不上传）
+飞书文档_使用指南.md
+优化说明.md
+
 # 临时文件
 *.tmp
 vp_*.txt
